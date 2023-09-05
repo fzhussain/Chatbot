@@ -1,38 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background: #F5FEFD;
+  font-family: sans-serif;
+  text-align: center;
+  overflow-x: hidden;
+  overflow-y:hidden;
+}
+h1 {
+  margin-top: 5%;
+  margin-bottom: 2.5%;
+}
+
+.homepage-container {
+}
+
+.chatbot-container {
+  display: flex;
+
+
+}
+
+
+.logo {
+  background-color: #38177a;
+  width: 50px;
+  height: 50px;
+  display: grid;
+  place-items: center;
   color: white;
+  border-radius: 100%;
 }
 
-.App-link {
-  color: #61dafb;
+
+
+.options-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.option-item {
+  padding: 8px 15px;
+  border: 1px solid rgb(108, 99, 255);
+  border-radius: 25px;
+  color: rgb(108, 99, 255);
+  font-size: 0.9rem;
+  margin: 3px;
+  box-shadow: inset 0px 0px 0px rgb(108, 99, 255);
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.option-item:hover {
+  box-shadow: inset 195px 0px 0px rgb(108, 99, 255);
+  color: #ffffff;
+}
+.start-btn {
+  justify-content: right;
+}
+
+.exit-btn {
+  display: flex; 
+  justify-content: space-between;
+}
+
+.end-btn {
+  background-color: #8e2de2;
+  color: white;
+  padding: .5rem 1rem;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  /* margin-left: 15rem; */
+}
+
+.react-chatbot-kit-chat-container {
+  width: 400px;
+}
+
+.react-chatbot-kit-chat-bot-message {
+  margin-left: 10px;
+  background-color:rgb(77, 72, 182);
+}
+
+.react-chatbot-kit-chat-bot-message-arrow {
+  border-right: 8px solid rgb(77, 72, 182);
+}
+
+.react-chatbot-kit-chat-btn-send {
+  background-color: rgb(108, 99, 255);
+  cursor:pointer;
+  
+}
+.react-chatbot-kit-chat-btn-send:hover {
+  box-shadow: inset 195px 0px 0px rgb(108, 99, 255);
+  color: #ffffff;
 }
