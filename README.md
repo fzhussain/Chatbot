@@ -9,6 +9,8 @@ HappilyEver - Interview Assignment
 
 https://drive.google.com/file/d/1mJqn4Jx355xoes2nf9SQgAb2u_No2HOo/view?usp=sharing
 
+https://github.com/fzhussain/Chatbot/blob/main/App%20Demo/Frontend%20Assignment.mp4
+
 
 ## Tech Stack
 
@@ -23,25 +25,25 @@ https://drive.google.com/file/d/1mJqn4Jx355xoes2nf9SQgAb2u_No2HOo/view?usp=shari
 
 ### Home Page
 
-![1st Screenshot](https://drive.google.com/file/d/1u_8Zk-u-c8wdPyAZgw24r8MDCTJMNSAB/view?usp=sharing)
+![1st Screenshot](https://github.com/fzhussain/Chatbot/blob/main/App%20Demo/1.jpg)
 
 ### Enroll Page
 
-![2nd Screenshot](https://drive.google.com/file/d/1N1soq9BjDeuBHB1WzPQM8n3g7KwxY_Ht/view?usp=sharing)
+![2nd Screenshot](https://github.com/fzhussain/Chatbot/blob/main/App%20Demo/2.jpg)
 
 ### Chatting with the bot
 
-![3rd Screenshot](https://drive.google.com/file/d/1TMRZUO4YcNjiPLAd3M_pLWM6gzS8s6hv/view?usp=sharing)
+![3rd Screenshot](https://github.com/fzhussain/Chatbot/blob/main/App%20Demo/3.jpg)
 
 ### Redux Devtools viewing store
 
-![4th Screenshot](https://drive.google.com/file/d/1HiFu0lSFaXmduDSwqrVl9bUlQnkbujua/view?usp=sharing)
+![4th Screenshot](https://github.com/fzhussain/Chatbot/blob/main/App%20Demo/4.jpg)
 
 ### Exit Page
 
-![5th Screenshot](https://drive.google.com/file/d/1-9KfK5SF20eWCygf0ptLm4HTucqhoVOE/view?usp=sharing)
+![5th Screenshot](https://github.com/fzhussain/Chatbot/blob/main/App%20Demo/5.jpg)
 
 ### Redux log monitor
 
-![6th Screenshot](https://drive.google.com/file/d/1geqKVgMOfKl6Jhjymtt-GqUPM3fIbpGB/view?usp=sharing)
+![6th Screenshot](https://github.com/fzhussain/Chatbot/blob/main/App%20Demo/6.jpg)
 
